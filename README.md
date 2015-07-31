@@ -16,7 +16,7 @@ We used 487 frames of the 00th sequences from [KITTI's Visual Odometry Dataset](
 OpenCV 2.4.9 <p>  VS2012<p>MATLAB
 
 ##How to compile?
-Before compiling the algorithm, you must configurate the VS2012 with OpenCV 2.4.9.[OpenCV Installment](http://wenku.baidu.com/link?url=EdbUVHnIIwq8ZQ8WPZD8oSMIj1f9kV5CJIrZ6X6CCAgBOFliBQp7IBl0q1Szc-1qADg1wNJTyUxPvY_YyNaMtBzrDaX3aCUpIJgFa0doBcy)<P>
+Before compiling the algorithm, you must configurate the VS2012 with OpenCV 2.4.9.[OpenCV Installment](http://wenku.baidu.com/link?url=EdbUVHnIIwq8ZQ8WPZD8oSMIj1f9kV5CJIrZ6X6CCAgBOFliBQp7IBl0q1Szc-1qADg1wNJTyUxPvY_YyNaMtBzrDaX3aCUpIJgFa0doBcy).<P>
 You can use VS2012 to compile this algorithm, and run 'matlabload.m' by MATLAB to visualize the motion process of camera.
 
 ##Attention
