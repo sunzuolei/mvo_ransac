@@ -26,7 +26,7 @@ or else the sequences from [KITTI's Visual Odometry Dataset](http://www.cvlibs.n
 In order to run this algorithm on your own data, you must modify the intrinsic calibration parameters in the code.And you must change your own data file path.
 ##How to run? 
 <p>First run the vs2012, you will get the 'data.dat' in the source code folder.
-<p>Second use the MATLAB run 'matlabload.m' to visualize the motion process of camera.
+<p>Second  run 'matlabload.m' by the MATLAB to visualize the motion process of camera.
 
 
 
