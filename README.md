@@ -23,7 +23,7 @@ You can use VS2012 to compile this algorithm, and run 'matlabload.m' by MATLAB t
 Everytime before you run the algorithm, you must check whether there is the 'data.dat' in the source code folder. If the 'data.dat' exists, you must delete it before you run.
 <P>In order to run this algorithm, you need to have either your own data, 
 or else the sequences from [KITTI's Visual Odometry Dataset](http://www.cvlibs.net/datasets/kitti/eval_odometry.php).
-In order to run this algorithm on your own data, you must modify the intrinsic calibration parameters in the code.And you must change your own data file path.
+In order to run this algorithm on your own data, you must modify the intrinsic calibration parameters in the code.And you must change to your own data file path.
 ##How to run? 
 <p>First run the vs2012, you will get the 'data.dat' in the source code folder.
 <p>Second  run 'matlabload.m' by the MATLAB to visualize the motion process of camera.
