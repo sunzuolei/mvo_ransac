@@ -1,4 +1,4 @@
-# mvo-ransac
+# About
 The code for paper Monocular Visual Odometry with RANSAC-based Outlier Rejection
 ##Algorithm
  Normalized eight-points algorithm is used for essential matrix estimation, and SURF descriptor is employed to extract and match feature.
@@ -34,5 +34,5 @@ In order to run this algorithm on your own data, you must modify the intrinsic c
 
 
 ##Contact
-For any question, contact: szl@mpig.com.cn  <p>   hjm@mpig.com.cn
+For any question, contact: hjm@mpig.com.cn  <p>  szl@mpig.com.cn
 
